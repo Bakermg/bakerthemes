@@ -1,1 +1,1 @@
-## This is a underscores theme
+# This is a theme build with underscores
